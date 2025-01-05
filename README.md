@@ -45,15 +45,7 @@ private val apiKey = "your_api_key_here"
 - **Android Studio**: The development environment for building Android applications.
 - **Kotlin/Java**: Programming language used for the app (please specify which one you're using).
 - **OpenWeatherMap API**: A weather data provider that powers the app's weather forecasts.
-
-## Credits and Acknowledgments
-
-The following icons are used in this project and are copyrighted by their respective authors:
-
-- **Icon Name**: [Source/Author Name](URL)
-- **Icon Name**: [Source/Author Name](URL)
-
-These icons are used under the [License Type](URL) provided by the author.
+- 
 ## Credits and Acknowledgments
 
 The following icons are used in this project and are copyrighted by their respective authors:
