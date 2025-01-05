@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkyCheck</string>
+    <string name="dataH">Humidity</string>
+    <string name="dataW">Wind</string>
+    <string name="dataCity">Enter a City</string>
+    <string name="buttonChange">Change</string>
+</resources>
